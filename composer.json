@@ -18,7 +18,7 @@
     "ext-bcmath": "*",
     "ext-gmp": "*",
     "comely-io/data-types": "dev-master",
-    "furqansiddiqui/ecdsa-php": "^0.2.0"
+    "furqansiddiqui/ecdsa-php": "dev-master"
   },
   "autoload": {
     "psr-4": {
@@ -32,6 +32,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/Igor360/data-types.git"
+    },
+     {
+      "type": "vcs",
+      "url": "https://github.com/Igor360/ecdsa-php.git"
     }
   ]
 }
